@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class GitProjApplication {
 
 	public static void main(String[] args) {
+		//it is branch code
 		SpringApplication.run(GitProjApplication.class, args);
 	}
 
